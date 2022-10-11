@@ -1,0 +1,6 @@
+print ("  )")
+print (" (")
+print ("[", end="")
+print ("_", end="")
+print ("]", end="")
+print (")", end="") 
